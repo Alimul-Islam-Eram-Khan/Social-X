@@ -1,6 +1,6 @@
-# TWITTER Clone with React, Tailwind, Next, Prisma, Mongo, NextAuth, TypeScript & Vercel
+# TWITTER like social media with React, Tailwind, Next, Prisma, Mongo, NextAuth, TypeScript & Vercel
 
-This is a repository for a FullStack Twitter Clone using React, NextJS, TailwindCSS & Prisma.
+This is a repository for a FullStack social media platform using React, NextJS, TailwindCSS & Prisma.
 
 Funcionalities:
 
