@@ -75,7 +75,10 @@ https://github.com/Alimul-Islam-Eram-Khan/Social-X.git
 ### Install packages
 
 ```shell
-npm i
+cd Social-X
+
+npm install
+
 ```
 
 ### Setup .env file
