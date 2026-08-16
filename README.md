@@ -5,7 +5,7 @@ A full-stack social media platform inspired by Twitter/X, built with Next.js, Pr
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="public/home.png" width="45%" />
+  <img src="public/Home.png" width="45%" />
   <img src="public/profile.png" width="45%" />
 </p>
 
