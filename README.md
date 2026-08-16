@@ -1,6 +1,24 @@
-# TWITTER like social media with React, Tailwind, Next, Prisma, Mongo, NextAuth, TypeScript & Vercel
+#  Social-X
 
-This is a repository for a FullStack social media platform using React, NextJS, TailwindCSS & Prisma.
+A full-stack social media platform inspired by Twitter/X, built with Next.js, Prisma, MongoDB, and NextAuth.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="public/home.png" width="45%" />
+  <img src="public/profile.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="public/notification.png" width="45%" />
+  <img src="public/login.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="public/screenshots/create-post.png" width="45%" />
+</p>
+
+[🌐 Live Demo](https://social-x-two.vercel.app/) • [💻 GitHub Repository](https://github.com/Alimul-Islam-Eram-Khan/Social-X)
 
 Funcionalities:
 
@@ -16,9 +34,40 @@ Funcionalities:
 - Likes functionality
 - Vercel Deployment
 
-### Prerequisites
+🛠️ Tech Stack
 
-**Node version 14.x**
+### Frontend
+- Next.js
+- React
+- CSS/Tailwind/etc.
+
+### Backend
+- Next.js API
+- Prisma
+
+### Database
+- MongoDB
+
+### Authentication
+- NextAuth
+
+### Deployment
+- Vercel
+
+---
+
+🏗️ Architecture
+
+```text
+User
+ ↓
+Next.js
+ ↓
+API Routes
+ ↓
+Prisma
+ ↓
+MongoDB Atlas
 
 ### Cloning the repository
 
