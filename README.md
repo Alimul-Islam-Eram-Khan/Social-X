@@ -14,9 +14,6 @@ A full-stack social media platform inspired by Twitter/X, built with Next.js, Pr
   <img src="public/login.png" width="45%" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/create-post.png" width="45%" />
-</p>
 
 [🌐 Live Demo](https://social-x-two.vercel.app/) • [💻 GitHub Repository](https://github.com/Alimul-Islam-Eram-Khan/Social-X)
 
