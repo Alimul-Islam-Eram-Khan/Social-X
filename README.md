@@ -23,7 +23,7 @@ Funcionalities:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/twitter-clone.git
+https://github.com/Alimul-Islam-Eram-Khan/Social-X.git
 ```
 
 ### Install packages
